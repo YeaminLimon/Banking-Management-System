@@ -1,5 +1,4 @@
 # YeaminLimon.Banking-Management-System
-
 import java.util.*;
 abstract class BankAccount{
 
@@ -298,4 +297,3 @@ public class bankingapplicationupdated {
     }
 
 }
-
